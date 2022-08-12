@@ -1,6 +1,6 @@
 # flutter_test_app
 
-A new Flutter project.
+Flutter のテスト用アプリケーション
 
 ## Getting Started
 
